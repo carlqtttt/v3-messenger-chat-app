@@ -1,4 +1,5 @@
 "use client"
+
 import { View, Text, FlatList, TouchableOpacity, StyleSheet, SafeAreaView, Image } from "react-native"
 import { useChat } from "../contexts/ChatContext"
 import { useAuth } from "../contexts/AuthContext"
